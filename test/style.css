@@ -1,0 +1,32 @@
+body {
+    background-color: wheat;
+}
+section {
+    border: 2px solid black;
+    width: 70%;
+    padding: 10px;
+    margin: 5px;
+}
+article {
+    width: 70%;
+}
+footer {
+    clear: both;
+    text-align: center;
+    margin: 10px;
+}
+.comentw {
+    float: left;    
+    margin: 0 auto;
+}
+.coment {
+    clear: both;
+    float: left;
+}
+.img {
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.del {
+    float: left;
+}
